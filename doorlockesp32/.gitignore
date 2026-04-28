@@ -1,0 +1,56 @@
+# Arduino IDE
+*.o
+*.a
+*.so
+*.so.*
+*.dylib
+
+# Build output
+build/
+dist/
+target/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE project files
+*.project
+*.classpath
+*.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Dependency directories
+node_modules/
+.npm
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
