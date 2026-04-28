@@ -19,7 +19,7 @@ An intelligent door lock system powered by ESP32 with AI-based face recognition.
 ### Circuit Diagram & Hardware Setup
 **Complete wiring diagram showing ESP32-CAM connections with electronic lock, relay module, status LEDs, and power supply:**
 
-![Circuit Diagram](ESP32CAM-LockRecognizeFace.png)
+![Circuit Diagram](image/ESP32CAM-LockRecognizeFace.png)
 
 *This diagram shows:*
 - *ESP32-CAM microcontroller with integrated camera*
@@ -31,7 +31,7 @@ An intelligent door lock system powered by ESP32 with AI-based face recognition.
 ### Physical Implementation
 **Breadboard prototype showing the actual hardware assembly:**
 
-![Breadboard Setup](pasted-image.png)
+![Breadboard Setup](image/pasted-image.png)
 
 *The implementation includes:*
 - *Relay module for controlling high-power electronic lock*
@@ -42,7 +42,7 @@ An intelligent door lock system powered by ESP32 with AI-based face recognition.
 ### Web Interface - Camera Settings
 **Real-time camera adjustment panel for optimal face detection:**
 
-![Camera Settings Interface](Picyard_1777346396679.png)
+![Camera Settings Interface](image/Picyard_1777346396679.png)
 
 *Features available:*
 - *Resolution settings (QVGA/320x240)*
@@ -55,7 +55,7 @@ An intelligent door lock system powered by ESP32 with AI-based face recognition.
 ### Face Recognition System
 **Real-time face detection and recognition interface showing authorized vs unauthorized access:**
 
-![Face Recognition Interface](Picyard_1777346431211.png)
+![Face Recognition Interface](image/Picyard_1777346431211.png)
 
 *Displays:*
 - *"Intruder Alert" - When unauthorized face is detected (Red border)*
